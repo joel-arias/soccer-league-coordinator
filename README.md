@@ -1,1 +1,1 @@
-# soccer-league-coordinator
+# Soccer League Coordinator
